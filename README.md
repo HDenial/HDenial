@@ -1,4 +1,4 @@
-- Hi, I’m @HDenial
+- Hi, I’m 
 - I’m interested in operational system internals and general eletronics
 - I’m currently learning Computer Vision software development
 
