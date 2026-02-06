@@ -1,7 +1,4 @@
-- Hi, I’m H, an Eletrical Engineering student
-- Interested in operational system internals, general eletronics and networking
-- Currently learning Computer Vision software development for use with Automated Vessels
-
-- Fun fact: Slippy Kinnote is not a real band.
-
+Electrical Engineering student focused on systems engineering, infrastructure, and automation.
+Interested in operating system internals, networking, and secure system design.
+Currently working with ROS2, simulation, and computer vision for autonomous systems.
 
