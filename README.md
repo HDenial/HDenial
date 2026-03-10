@@ -1,3 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                               ________________        
+                                                             /                 \   \                          
+                                                           /      []            |    \                   
+                                                          /                     |      |               
+                                                            \/    /             |       |
+                                                            /   / ___           |      |
+                         ---------                         / /\  /   \          |     |                          ---------
+                       --         --                      /\ ‾‾‾‾     |        /    /                          --         --                            
+                       --  0   0  --                                   |  ___    /                             --  0   0  --
+                       --    ^    --                                  /  ___    /                              --    ^    --
+                         -- ||| --                                   /  ___    /                                 -- ||| --
+                           -----                                   /   ___   /                                     -----
+                
+
+
 
 
 # 💻 Tech Stack:
@@ -10,7 +26,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shallom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 Electrical Engineering student focused on systems engineering, infrastructure, and automation.
 
 Interested in operating system internals, networking, and secure system design.
