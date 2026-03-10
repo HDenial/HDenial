@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding%20Da%20BOMB-45d9d2?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Automating%20Distributed%20Systems-45d94c?style=flat-square" />
-  # // <img src="https://img.shields.io/badge/Learning-Computer%20Vision%20Stack-ed1cff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Computer%20Vision%20Stack-ed1cff?style=flat-square" />
 </p>
 
 # 💻 Tech Stack:
