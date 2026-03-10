@@ -12,12 +12,12 @@
                  -- ||| --                                   /  ___    /                                 -- ||| --
                    -----                                   /   ___   /                                     -----
                 
-                                                            ________       ________      ________
-                                   \        /      |       |        \     |             |        \
-                                    \      /       |       |         |    |             |         |
-                                     \    /        |       |________/     |--------     |________/
-                                      \  /         |       |              |             |        \
-                                       \/          |       |              |________     |         \
+                                                         ________       ________      ________
+                                \        /      |       |        \     |             |        \
+                                 \      /       |       |         |    |             |         |
+                                  \    /        |       |________/     |--------     |________/
+                                   \  /         |       |              |             |        \
+                                    \/          |       |              |________     |         \
 # 💻 Tech Stack:
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 # 📊 GitHub Stats:
