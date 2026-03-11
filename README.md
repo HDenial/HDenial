@@ -1,23 +1,23 @@
 ----------------------------------------------------------------------------------------------------------------
-                                                ___________________        
-                                              /                 \   \                          
-                                            /      []            |    \                   
-                                           /                     |      |
-                                             \/    /             |       |
-                                             /   / ___           |      |
-          ---------                         / /\  /   \          |     |                          ---------
-        --         --                      /\ ‾‾‾‾     |        /    /                          --         --
-        --  0   0  --                                   |  ___    /                             --  0   0  --
-        --    ^    --                                  /  ___    /                              --    ^    --
-          -- ||| --                                   /  ___    /                                 -- ||| --
-            -----                                   /   ___   /                                     -----
+                                                 ___________________        
+                                               /                 \   \                          
+                                             /      []            |    \                   
+                                            /                     |      |
+                                              \/    /             |       |
+                                              /   / ___           |      |
+           ---------                         / /\  /   \          |     |                          ---------
+         --         --                      /\ ‾‾‾‾     |        /    /                          --         --
+         --  0   0  --                                   |  ___    /                             --  0   0  --
+         --    ^    --                                  /  ___    /                              --    ^    --
+           -- ||| --                                   /  ___    /                                 -- ||| --
+             -----                                   /   ___   /                                     -----
             
-                                                   ________       ________      ________
-                          \        /      |       |        \     |             |        \
-                           \      /       |       |         |    |             |         |
-                            \    /        |       |________/     |--------     |________/
-                             \  /         |       |              |             |        \
-                              \/          |       |              |________     |         \
+                                                    ________       ________      ________
+                           \        /      |       |        \     |             |        \
+                            \      /       |       |         |    |             |         |
+                             \    /        |       |________/     |--------     |________/
+                              \  /         |       |              |             |        \
+                               \/          |       |              |________     |         \
 
 
 <h1 align="center"><span style="color:#00FFFF; text-shadow: 0 0 10px rgba(0, 255, 255, 0.8);">Hugo Saad</span></h1>
@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding%20DaBomb-45d9d2?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Automating%20Distributed%20Systems-45d94c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Computer%20Vision%20Stack%ffHardware%20Acceleration-ed1cff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Computer%20Vision%20Stack%2FHardware%20Acceleration-ed1cff?style=flat-square" />
 </p>
 
 # Tech Stack:
