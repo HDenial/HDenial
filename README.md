@@ -37,7 +37,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
 # OpSec:
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![WireShark](https://img.shields.io/badge/wireshark.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![WireShark](https://img.shields.io/badge/wireshark-%23171717.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
 # GitHub Stats:
